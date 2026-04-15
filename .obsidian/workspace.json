@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f8e4f8a2857736d",
+        "id": "eeef4fbf3df7db33",
         "type": "tabs",
         "children": [
           {
-            "id": "a728ee3dcd279674",
+            "id": "8b7f8e727148e542",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,6 +180,7 @@
   },
   "active": "73348dd7f02d8f03",
   "lastOpenFiles": [
+    "projects/Freedom_coaches",
     "New folder",
     "projects",
     "Skills",
