@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Claude local settings (machine-specific permissions)
+.claude/settings.local.json
+
+# Claude worktrees (git worktrees — not file content)
+.claude/worktrees/
